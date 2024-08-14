@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://kit.fontawesome.com/d250854114.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+    <main id="main">
+
+        <div class="container middle tohide">
+            <span class="searchbar">
+                <input id="searchbar" type="text" placeholder="Search">
+                <i onclick="search()" id="searchbtn" class="fa-solid fa-search"></i>
+            </span>
+            <div class="animeList" id="searchlist">
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container middle tohide">
+            <h2>Pick your top 5 Animes</h2>
+            <div class="picked" id="pickedlist">
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+                <div class="animeItem">
+                    <img src="" alt="">
+                    <span>vinland saga</span>
+                </div>
+            </div>
+            <span style="margin-bottom: 5px;">(click to remove)</span>
+            <button onclick="rate()">rate my taste!</button>
+        </div>
+
+        <div class="container toshow">
+            <h2>RESULTS</h2>
+
+            <div class="barchart" id="barchart">
+
+                <div class="barItem">
+
+                    <div class="bar">
+                        <div class="barFill">100%</div>
+                    </div>
+                    <span class="title">based</span>
+
+                </div>
+
+                <div class="barItem">
+
+                    <div class="bar">
+                        <div class="barFill"></div>
+                    </div>
+                    <span class="title">based</span>
+
+                </div>
+
+                <div class="barItem">
+
+                    <div class="bar">
+                        <div class="barFill"></div>
+                    </div>
+                    <span class="title">based</span>
+
+                </div>
+
+                <div class="barItem">
+
+                    <div class="bar">
+                        <div class="barFill"></div>
+                    </div>
+                    <span class="title">based</span>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+</body>
+</html>

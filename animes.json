@@ -1,0 +1,333 @@
+[
+
+    {
+        "name": "JoJo's Bizarre Adventure",
+        "image": "jojo.png",
+        
+        "horny": 0.5,
+        "racist": 1,
+        "based": 0.5,
+        "cringe": 0.5
+    },
+
+    {
+        "name": "Neon Genesis Evangelion",
+        "image": "nge.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0.5,
+        "cringe": 1
+    },
+
+    {
+        "name": "Rent-A-Girlfriend",
+        "image": "rent.png",
+        
+        "horny": 1,
+        "racist": 0,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Serial Experiments Lain",
+        "image": "lain.png",
+        
+        "horny": 0,
+        "racist": 0.2,
+        "based": 1,
+        "cringe": 0.3
+    },
+
+    {
+        "name": "Kill la Kill",
+        "image": "kill.png",
+        
+        "horny": 1,
+        "racist": 0.2,
+        "based": 0.2,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "One Piece",
+        "image": "onepiece.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0.5,
+        "cringe": 1
+    },
+
+    {
+        "name": "Akame Ga Kill!",
+        "image": "akame.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Re: Zero",
+        "image": "rezero.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Mob Psycho 100",
+        "image": "mp100.png",
+        
+        "horny": 0.3,
+        "racist": 0.1,
+        "based": 0.8,
+        "cringe": 0.2
+    },
+
+    {
+        "name": "Miss Kobayashi's Dragon Maid",
+        "image": "kobayashi.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Darling in the Franxx",
+        "image": "franxx.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "KONOSUBA",
+        "image": "konosuba.png",
+        
+        "horny": 1,
+        "racist": 2,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "The Rising Of The Shield Hero",
+        "image": "shield.png",
+        
+        "horny": 1,
+        "racist": 0,
+        "based": 0,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "One Punch Man",
+        "image": "opm.png",
+        
+        "horny": 0.5,
+        "racist": 0.2,
+        "based": 0.2,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "My Hero Academia",
+        "image": "mha.png",
+        
+        "horny": 0,
+        "racist": 1,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Death Note",
+        "image": "death.png",
+        
+        "horny": 0.2,
+        "racist": 0.2,
+        "based": 0.8,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "Demon Slayer",
+        "image": "demonslayer.png",
+        
+        "horny": 0.5,
+        "racist": 0,
+        "based": 0.2,
+        "cringe": 0.6
+    },
+
+    {
+        "name": "Chainsaw Man",
+        "image": "chainsaw.png",
+        
+        "horny": 0.8,
+        "racist": 0.6,
+        "based": 0.5,
+        "cringe": 0.7
+    },
+
+    {
+        "name": "Parasyte",
+        "image": "parasyte.png",
+        
+        "horny": 0,
+        "racist": 0.5,
+        "based": 1,
+        "cringe": 0.2
+    },
+
+    {
+        "name": "Solo Leveling",
+        "image": "solo.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 2
+    },
+
+    {
+        "name": "Tokyo Ghoul",
+        "image": "tokyo.png",
+        
+        "horny": 0,
+        "racist": 1,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Bleach",
+        "image": "bleach.png",
+        
+        "horny": 1,
+        "racist": 0.6,
+        "based": 0.8,
+        "cringe": 0.5
+    },
+
+    {
+        "name": "Naruto",
+        "image": "naruto.png",
+        
+        "horny": 1,
+        "racist": 1,
+        "based": 0,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "Frieren: Beyond Journey's End",
+        "image": "frieren.png",
+        
+        "horny": 0.5,
+        "racist": 1,
+        "based": 0.2,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "Dungeon Meshi",
+        "image": "meshi.png",
+        
+        "horny": 0,
+        "racist": 0.1,
+        "based": 1,
+        "cringe": 0.1
+    },
+
+    {
+        "name": "Attack On Titan",
+        "image": "aot.png",
+        
+        "horny": 0.2,
+        "racist": 0.5,
+        "based": 1,
+        "cringe": 0.5
+    },
+
+    {
+        "name": "Jujutsu Kaisen",
+        "image": "jjk.png",
+        
+        "horny": 0.4,
+        "racist": 1,
+        "based": 0.2,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "Fire Force",
+        "image": "fireforce.png",
+        
+        "horny": 1,
+        "racist": 0.5,
+        "based": 0.2,
+        "cringe": 0.8
+    },
+
+    {
+        "name": "Cyberpunk: Edgerunners",
+        "image": "edgerunner.png",
+        
+        "horny": 1,
+        "racist": 0.1,
+        "based": 0.8,
+        "cringe": 0.2
+    },
+
+    {
+        "name": "Hunter x Hunter",
+        "image": "hxh.png",
+        
+        "horny": 0.5,
+        "racist": 0.5,
+        "based": 0.5,
+        "cringe": 0.5
+    },
+
+    {
+        "name": "Monogatari",
+        "image": "monogatari.png",
+        
+        "horny": 1,
+        "racist": 0.6,
+        "based": 0.05,
+        "cringe": 0.9
+    },
+
+    {
+        "name": "Fullmetal Alchemist",
+        "image": "fma.png",
+        
+        "horny": 0.2,
+        "racist": 0.2,
+        "based": 0.9,
+        "cringe": 0.02
+    },
+
+    {
+        "name": "Dr. Stone",
+        "image": "drstone.png",
+        
+        "horny": 0.2,
+        "racist": 0.2,
+        "based": 1,
+        "cringe": 0.5
+    }
+
+]
