@@ -6,6 +6,9 @@ body {
 * {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+img {
+    image-rendering:optimizeSpeed !important;
+}
 
 main {
 
@@ -22,8 +25,10 @@ main.result .tohide {
 }
 main.result .toshow {
     display: unset;
+
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
     text-align: center;
 }
@@ -163,8 +168,27 @@ main.result .toshow {
     justify-content: center;
     align-items: center;
     background-color: rgb(234, 234, 234);
+    transition: 0.2s;
     height: 0%;
 }
 .barItem .title {
 
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 400px;
+}
+.final span {
+    background-color: rgb(239, 239, 239);
+    margin: 5px;
+    padding: 5px;
+}
+h3 {
+    margin: 0;
+    margin-top: 10px;
 }

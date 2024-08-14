@@ -59,6 +59,10 @@ function rate() {
         resultsObj.based.push(anime.based)
         resultsObj.cringe.push(anime.cringe)
 
+        document.getElementById("final").innerHTML += `
+        <span>${anime.name}</span>
+        `
+
     })
 
     barChart.innerHTML = ``
