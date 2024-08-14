@@ -328,6 +328,96 @@
         "racist": 0.2,
         "based": 1,
         "cringe": 0.5
+    },
+
+    {
+        "name": "Vinland Saga",
+        "image": "vinland.png",
+        
+        "horny": 0,
+        "racist": 0.5,
+        "based": 0.8,
+        "cringe": 0.2
+    },
+
+    {
+        "name": "Sword Art Online",
+        "image": "sao.png",
+        
+        "horny": 0.5,
+        "racist": 2,
+        "based": -1,
+        "cringe": 2
+    },
+
+    {
+        "name": "Violet Evergarden",
+        "image": "evergarden.png",
+        
+        "horny": 0,
+        "racist": 0,
+        "based": 1,
+        "cringe": 0.05
+    },
+
+    {
+        "name": "Fate Series",
+        "image": "fate.png",
+        
+        "horny": 0.5,
+        "racist": 0.5,
+        "based": 0.5,
+        "cringe": 0.4
+    },
+
+    {
+        "name": "Wonder Egg Priority",
+        "image": "wonderegg.png",
+        
+        "horny": 0,
+        "racist": 0,
+        "based": 1,
+        "cringe": 0.1
+    },
+
+    {
+        "name": "Pokemon",
+        "image": "pokemon.png",
+        
+        "horny": 0,
+        "racist": 0,
+        "based": 0,
+        "cringe": 0.1
+    },
+
+    {
+        "name": "My Deer Friend Nokotan",
+        "image": "nokotan.png",
+        
+        "horny": 0,
+        "racist": 0,
+        "based": 0,
+        "cringe": 0
+    },
+
+    {
+        "name": "Highschool DxD",
+        "image": "dxd.png",
+        
+        "horny": 1,
+        "racist": 0,
+        "based": 0,
+        "cringe": 1
+    },
+
+    {
+        "name": "Kakegurui",
+        "image": "kakegurui.png",
+        
+        "horny": 1,
+        "racist": 0,
+        "based": 0,
+        "cringe": 1
     }
 
 ]

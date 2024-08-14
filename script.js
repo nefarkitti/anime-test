@@ -30,7 +30,7 @@ function getAverage(array) {
 
 let animeJson
 
-axios.get('animes.json').then(res => {
+axios.get('https://raw.githubusercontent.com/nefarkitti/anime-test/main/animes.json').then(res => {
     let jsonData = res.data // should be json by default
 
     animeJson = jsonData
