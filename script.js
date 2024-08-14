@@ -122,7 +122,7 @@ function updatePicked() {
 
         pickedList.innerHTML += `
         <div class="animeItem" onclick="removeFromPicked(${indx})">
-            <img src="/assets/anime/${anime.image}" alt="">
+            <img src="assets/anime/${anime.image}" alt="">
             <span>${anime.name}</span>
         </div>
     `
@@ -145,7 +145,7 @@ function search() {
     
             searchList.innerHTML += `
                 <div class="animeItem" onclick="addToPicked(${indx})">
-                    <img src="/assets/anime/${anime.image}" alt="">
+                    <img src="assets/anime/${anime.image}" alt="">
                     <span>${anime.name}</span>
                 </div>
             `
